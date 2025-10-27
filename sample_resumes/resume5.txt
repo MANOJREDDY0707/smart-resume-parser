@@ -1,0 +1,16 @@
+Ling Chen
+ling.chen@company.cn | +86 10 5555 4444
+
+Summary
+Machine Learning engineer with experience in recommendation systems and deep learning.
+
+Skills
+Python, PyTorch, TensorFlow, SQL, Spark, AWS, Kubernetes, Docker
+
+Experience
+ML Engineer — ShopSmart (2018 - Present)
+- Built personalized recommendation system increasing revenue by 8%
+
+Education
+M.S. Computer Science — Tsinghua University (2016)
+B.S. Computer Science — Nanjing Univ (2014)

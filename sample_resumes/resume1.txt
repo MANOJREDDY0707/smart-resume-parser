@@ -1,0 +1,21 @@
+John A. Smith
+Email: john.smith@example.com
+Phone: +1 415-555-1234
+Location: San Francisco, CA
+
+Summary
+Experienced full-stack engineer with 6+ years of building web apps using Python, React and AWS.
+
+Skills
+Python, JavaScript, React, Node.js, SQL, PostgreSQL, AWS (EC2, S3, Lambda), Docker, Git
+
+Experience
+Senior Software Engineer — Acme Corp (Jan 2020 - Present)
+- Led backend team; built REST services in Python (FastAPI)
+- Migrated monolith to microservices on AWS
+
+Software Engineer — BetaSoft (Jul 2017 - Dec 2019)
+- Integrated payment gateway and improved throughput
+
+Education
+B.Sc. Computer Science — University of Somewhere (2013 - 2017)

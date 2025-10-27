@@ -1,0 +1,17 @@
+Priya Reddy
+priya.reddy@mail.com | +91-98765-43210
+
+Objective
+Seeking data science roles focusing on NLP and machine learning.
+
+Technical Skills
+Python, pandas, NumPy, scikit-learn, spaCy, TensorFlow, SQL, Git, Linux
+
+Work Experience
+Data Scientist, DataWorks (May 2021 - Present)
+- Worked on NLP pipeline for intent classification
+- Deployed models using Docker and AWS
+
+Education
+M.Tech, Computer Science — IIT Example (2019)
+B.Tech, Information Technology — XYZ University (2017)

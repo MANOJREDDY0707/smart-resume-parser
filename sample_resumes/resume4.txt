@@ -1,0 +1,15 @@
+Asha Kumar
+asha.kumar@domain.in
+
+Profile
+Frontend developer skilled in HTML, CSS, JS, React, Next.js.
+
+Skills
+HTML, CSS, JavaScript, React, Next.js, TypeScript, Webpack, Git
+
+Experience
+Frontend Engineer — Webify (2019 - 2022)
+- Built component library and improved UX
+
+Education
+B.Sc. Information Science — ABC College (2015 - 2018)
